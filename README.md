@@ -11,4 +11,4 @@ Também tenho conhecimentos em bibliotecas como FastAPI para criar APIs, LangCha
 
 ![Previsao-Inadimplencia](IMGs/Loan-default.jpg)
 
-Neste projeto, conduzi todas as etapas de análise de dados, desde a exploração inicial e limpeza de uma base com informações de clientes inadimplentes até o desenvolvimento e implementação de modelos preditivos. Utilizei técnicas de Machine Learning para prever inadimplência em empréstimos, gerando insights valiosos para apoiar a tomada de decisões da empresa.
+Neste projeto, conduzi todas as etapas de análise de dados, desde a exploração inicial e limpeza de uma base com informações de clientes inadimplentes até o desenvolvimento e implementação de modelos preditivos. Utilizei técnicas de Machine Learning para prever inadimplência em empréstimos, gerando insights valiosos para apoiar a tomada de decisões da empresa. Possuo uma publicação no Medium com todo o processo do projeto explicado e o notebook do projeto desenvolvido disponível no GitHub.
