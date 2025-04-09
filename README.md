@@ -3,7 +3,7 @@ Tenho experiência acadêmica em manipulação de grandes conjuntos de dados com
 
 Também tenho experiência prática com versionamento de códigos (Git), conteinerização (Docker) e análise de dados em Nuvem (AWS e Google Cloud), além de Storytelling com dados e metodologias ágeis.
 
-Também tenho conhecimentos em bibliotecas como FastAPI para criar APIs, LangChain para gerar aplicações que utilizam modelos de linguagem natural e PySpark para manipulação de grandes conjuntos de dados.
+Também tenho familiaridade com bibliotecas úteis para o negócio, como FastAPI para a criação e consultas em APIs, LangChain para gerar aplicações que utilizam modelos de linguagem natural e PySpark para manipulação de grandes conjuntos de dados. Com foco em melhoria contínua, busco uma oportunidade para colocar minhas habilidades em prática e ajudar a gerar valor.
 
 ## Projetos
 ### Previsão de Inadimplência em Empréstimos
