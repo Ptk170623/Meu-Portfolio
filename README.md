@@ -7,8 +7,11 @@ Também tenho familiaridade com bibliotecas úteis para o negócio, como FastAPI
 
 ## Projetos
 ### Previsão de Inadimplência em Empréstimos
+#### Python | Machine Learning | FastAPI
 [Publicação](https://medium.com/@patricksilvalessa5/projeto-previsão-de-inadimplência-089ab3141c13)
 
 ![Previsao-Inadimplencia](IMGs/Loan-default.jpg)
 
-Neste projeto, conduzi todas as etapas de análise de dados, desde a exploração inicial e limpeza de uma base com informações de clientes inadimplentes até o desenvolvimento e implementação de modelos preditivos. Utilizei técnicas de Machine Learning para prever inadimplência em empréstimos, gerando insights valiosos para apoiar a tomada de decisões da empresa. Possuo uma publicação no Medium com todo o processo do projeto explicado e o notebook do projeto desenvolvido disponível no GitHub.
+Neste projeto, conduzi todas as etapas de análise de dados, desde a exploração inicial e limpeza de uma base com informações de clientes inadimplentes até o desenvolvimento e implementação de um modelo preditivo em uma API. Métodos Ensemble, avaliação cruzada e SMOTE para balancear os dados foram algumas das técnicas utilizadas para o desenvolvimento deste modelo.
+
+Com a aplicação deste projeto, um problema que gera grandes prejuízos para as empresas da área financeira é resolvido por meio da implementação de um modelo de classificação, capaz de prever o risco de inadimplência de um cliente, permitindo que a empresa tome decisões informadas e use estratégias eficazes para redução de riscos, maior segurança e rentabilidade.
